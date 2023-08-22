@@ -10,7 +10,7 @@
 <p align="left">
 </p>
 
-👨‍💻I'm software engineer
+👨‍💻I'm Junior engineer
 
 ⚡Frontend Developer
 
