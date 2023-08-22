@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">I am from Turkey</h3>
-<p align="left"> <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw3Ffck8aQtm7knje3Hw43qZ&ust=1692824899809000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDTrqiW8YADFQAAAAAdAAAAABA1)" width="400px" height="250px" alt="satushi" align="right"  /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" height="250px" alt="satushi" align="right"  /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaeryoldas&label=Profile%20views&color=0e75b6&style=flat" alt="ardaeryoldas" /> </p>
