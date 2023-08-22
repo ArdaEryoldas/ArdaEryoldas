@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">I am from Turkey</h3>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" height="250px" alt="satushi" align="right"  /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaeryoldas&label=Profile%20views&color=0e75b6&style=flat" alt="ardaeryoldas" /> </p>
 
